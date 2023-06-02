@@ -1,0 +1,10 @@
+Pizza
+Sushi
+Lasanha
+Hamburguer
+Frango
+Salada
+Espaguete
+Tacos
+Yakisoba
+Risoto
